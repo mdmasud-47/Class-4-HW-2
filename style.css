@@ -1,0 +1,22 @@
+
+h4{
+    text-align: center;
+    word-spacing: 10px;
+}
+tbody{
+    background-color:#F2F6FB ;
+}
+th{
+    color:#CD6155;
+}
+td{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    text-align: justify;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    
+    
+
+}
